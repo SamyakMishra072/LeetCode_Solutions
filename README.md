@@ -15,7 +15,6 @@ This repo is primarily for personal tracking, but if you'd like to contribute or
 
 ## 📬 Contact
 
-- 📧 Email: samyakmishraofficial@gmail.com  
 - 💼 LinkedIn: [Samyak Mishra](https://www.linkedin.com/in/samyak-mishra072/)  
 - 💻 GitHub: [SamyakMishra072](https://github.com/SamyakMishra072)
 
